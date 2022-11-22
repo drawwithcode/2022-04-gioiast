@@ -3,6 +3,13 @@ html, body {
   padding: 0;
 }
 
+html, body {
+  overflow-x: hidden;
+} 
+
+body { 
+  position: relative;}
+
 canvas {
   display: block;
 }
